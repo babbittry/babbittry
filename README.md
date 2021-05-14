@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![info](https://github-readme-stats.vercel.app/api?username=babbittry&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=babbittry&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babbittry&layout=compact&theme=material-palenight" />
+</a>
+
+
 
 # linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
