@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+⏳ **Babbittry's life progrss bar** 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-life-progress-bar-babbittry.vercel.app/api/?username=babbittry&theme=material-palenight" alt="Babbittry's life progrss bar" />
 </a>
@@ -25,10 +27,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babbittry&theme=material-palenight" />
 </a>
-
-
-⏳ **Year Progress** 
-
 
 
 # linux卡片
