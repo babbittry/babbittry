@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 ⏳ **Babbittry's life progrss bar** 
 
 <a href="https://github.com/babbittry/life-progress-bar">
-  <img align="center" src="https://life-progress-bar.vercel.app/api/?username=babbittry&theme=material-palenight" alt="Babbittry's life progrss bar" />
+  <img align="center" src="https://life-progress-bar.vercel.app/api/?username=babbittry&theme=vue&locale=cn" alt="Babbittry's life progrss bar" />
 </a>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=babbittry&show_icons=true&include_all_commits=true&theme=material-palenight" alt="babbittry's github stats" />
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babbittry&theme=material-palenight" />
 </a>
-
 
 # linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
