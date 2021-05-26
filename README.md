@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ⏳ **Babbittry's life progrss bar** 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/babbittry/life-progress-bar">
   <img align="center" src="https://life-progress-bar.vercel.app/api/?username=babbittry&theme=material-palenight" alt="Babbittry's life progrss bar" />
 </a>
 
