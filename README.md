@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
+![Windows](https://img.shields.io/badge/OS-Windows-007bd6?style=flat-square&logo=Windows&logoColor=ffffff)
+
 # 手机设备
 ![Xiaomi-MIX3](https://img.shields.io/badge/Xiaomi-MIX3-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)
 
