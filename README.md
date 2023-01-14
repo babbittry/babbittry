@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Gulf Security Technology Co., Ltd(GST)
+- 🔭 I’m currently working on Yokogawa
 - ⚡ I’m currently learning ![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 - 📫 How to reach me: h821021@126.com
 - 😄 Hobby: Documentary
